@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\karad\untitled3\android\build\windows\CMakeFiles\af225357f9217e1a5dfeb210f2563f3b\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{810FD025-3A80-3EBB-BEF0-FEFEBB00B632}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
